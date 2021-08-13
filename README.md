@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GitHubsagartapre
-- 👀 I’m interested in learning software testing
+- 👀 I’m interested in software testing
 - 🌱 I’m currently learning manual and automation testing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sagartapre123@gmail.com
